@@ -213,7 +213,10 @@ p {
   font-size: 15px;
   padding: 8px 15px 8px 15px;
   text-decoration: none;
-  margin: 0;
+  margin: 0 auto;
+  display: block;
+  width: 100px;
+  text-align: center;
 
 }
 
